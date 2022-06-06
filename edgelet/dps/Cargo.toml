@@ -23,4 +23,4 @@ edgelet-core = { path = "../edgelet-core" }
 edgelet-http = { path = "../edgelet-http" }
 
 [dev-dependencies]
-http = "0.1"
+http = "0.2"
